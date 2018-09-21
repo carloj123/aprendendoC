@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537571527 source:c:\users\17103441\desktop\modularizacao\main.c
+	<stdio.h>
+	<stdlib.h>
+
